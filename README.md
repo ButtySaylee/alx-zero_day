@@ -1,2 +1,2 @@
 #Git and Github
-Understanding the basic of Git and Github
+Learning the basic ideas in git and github
